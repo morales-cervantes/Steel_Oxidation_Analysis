@@ -42,3 +42,10 @@ The thermographic dataset used for monitoring oxide layer formation in 1045 stee
 
 Antony Morales-Cervantes led the data collection. All authors contributed to data analysis and interpretation. All authors approved the final version of the manuscript for publication.
 
+## Citation
+
+If you use this dataset, please cite it as:
+
+Antony Morales-Cervantes, Héctor Javier Vergara-Hernández, Gerardo Marx Chávez Campos, Jorge Sergio Téllez-Martínez (2024). Oxide Layer Segmentation Dataset. Zenodo. [https://doi.org/10.5281/zenodo.13368190](https://doi.org/10.5281/zenodo.13368190)
+
+
