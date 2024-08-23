@@ -55,14 +55,6 @@ This directory contains all the Python scripts developed and used for the **Oxid
      ```
   2. The script will prompt the expert to select areas manually using the mouse. The metrics will be calculated and compared against the algorithm's automatic selections.
   3. Results, including precision, recall, F1-Score, Dice Coefficient, and others, are saved in an Excel file (`metricas_evaluacion.xlsx`) for further analysis.
-
-## Dependencies
-
-Ensure the following Python libraries are installed:
-
-```bash
-pip install numpy pandas matplotlib opencv-python flirimageextractor skimage
-
 ## Example Image: `t8.tiff`
 
 An example thermographic image, `t8.tiff`, is included in this directory to allow users to quickly test and run the scripts provided.
@@ -93,5 +85,14 @@ The provided `t8.tiff` image allows users to:
 ---
 
 This example image is integral to ensuring that users can seamlessly run and understand the project, even if they do not have access to their own thermographic images.
+
+## Dependencies
+
+Ensure the following Python libraries are installed:
+
+```bash
+pip install numpy pandas matplotlib opencv-python flirimageextractor skimage
+
+
 
 
